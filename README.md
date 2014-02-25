@@ -1,0 +1,1 @@
+Same as the collada_loader_animation but with webgl Json loader
